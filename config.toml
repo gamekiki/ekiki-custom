@@ -1,5 +1,5 @@
-# baseURL = "/work-list/"
-baseURL = "/"
+baseURL = "/ekiki-custom/"
+# baseURL = "/"
 title = "E-KIKI CUSTOM List"
 
 enableRobotsTXT = false
