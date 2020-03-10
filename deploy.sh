@@ -11,7 +11,7 @@ cp -R public $HOME/public
 
 #go to home and setup git
 cd $HOME
-git config --global user.email "csstub@gmail.com"
+git config --global user.email "stub@gamebin.co.kr"
 git config --global user.name "stub-roh"
 
 #using token clone gh-pages branch

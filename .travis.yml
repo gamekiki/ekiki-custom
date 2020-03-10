@@ -32,12 +32,12 @@ env:
   - GH_DST: gh-pages
 
 # Deploy to GitHub pages
-deploy:
-  provider: pages
-  cleanup: true
-  token: $GITHUB_TOKEN
-  email: stub@gamebin.co.kr
-  name: stub-roh
-  local_dir: public
-  on:
-    branch: master
+# deploy:
+#   local_dir: public
+#   provider: pages
+#   cleanup: true
+#   token: $GITHUB_TOKEN
+#   email: stub@gamebin.co.kr
+#   name: stub-roh
+#   on:
+#     branch: master
