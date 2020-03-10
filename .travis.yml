@@ -36,8 +36,8 @@ deploy:
   provider: pages
   cleanup: true
   token: $GITHUB_TOKEN
-  email: csstub@gmail.com
-  name: stub.roh
+  email: stub@gamebin.co.kr
+  name: stub-roh
   local_dir: public
   on:
     branch: master
