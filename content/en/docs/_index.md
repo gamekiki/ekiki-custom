@@ -1,6 +1,6 @@
 ---
-title: "Customs"
-linkTitle: "Customs"
+title: "List"
+linkTitle: "Custom List"
 date: 2020-03-10
 weight: 20
 menu:

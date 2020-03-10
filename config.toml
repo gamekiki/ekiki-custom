@@ -1,6 +1,6 @@
 baseURL = "/ekiki-custom/"
 # baseURL = "/"
-title = "E-KIKI CUSTOM List"
+title = "E-KIKI"
 
 enableRobotsTXT = false
 
@@ -28,7 +28,7 @@ pygmentsUseClassic = false
 #pygmentsOptions = "linenos=table"
 
 # See https://help.farbox.com/pygments.html
-#pygmentsStyle = "tango"
+# pygmentsStyle = "tango"
 pygmentsStyle = "monokai"
 
 # Configure how URLs look like per section.
@@ -56,7 +56,7 @@ anchor = "smart"
 # Language configuration
 [languages]
 [languages.en]
-title = "E-KIKI CUSTOM List"
+title = "E-KIKI"
 description = "E-KIKI CUSTOM work list pages"
 languageName ="English"
 # Weight used for sorting.
@@ -85,7 +85,7 @@ version_menu = "Releases"
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
 github_repo = "https://github.com/gamekiki/ekiki-custom"
 # An optional link to a related project repo. For example, the sibling repository where your product code lives.
-# github_project_repo = "https://github.com/stub0001/work-list"
+# github_project_repo = "https://github.com/gamekiki/ekiki-custom"
 
 # Specify a value here if your content directory is not in your repo's root directory
 # github_subdir = ""
@@ -97,16 +97,18 @@ github_repo = "https://github.com/gamekiki/ekiki-custom"
 algolia_docsearch = false
 
 # Enable Lunr.js offline search
-offlineSearch = false
+offlineSearch = true
+
+# landing_page = false
 
 # User interface configuration
 [params.ui]
 # Enable to show the side bar menu in its compact state.
 sidebar_menu_compact = false
 #  Set to true to disable breadcrumb navigation.
-breadcrumb_disable = false
+breadcrumb_disable = true
 #  Set to true to hide the sidebar search box (the top nav search box will still be displayed if search is enabled)
-sidebar_search_disable = false
+sidebar_search_disable = true
 #  Set to false if you don't want to display a logo (/assets/icons/logo.svg) in the top nav bar
 navbar_logo = true
 # Set to true to disable the About link in the site footer

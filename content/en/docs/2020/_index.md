@@ -4,7 +4,7 @@ linkTitle: "2020"
 date: 2020-03-10
 weight: 1
 description: >
-  2020 E-KIKI CUSTOMS 
+  2020년 CUSTOM 사이트 리스트
 ---
 
 {{% pageinfo %}}

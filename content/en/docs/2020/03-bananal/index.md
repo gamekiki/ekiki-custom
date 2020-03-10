@@ -1,9 +1,9 @@
 ---
-title: "바나날 BANANAL"
+title: "바나날"
 date: 2020-03-10
 weight: 2
 description: >
-  2020.03 - 바나날 
+  2020.03 - BANANAL
 resources:
 - src: "**.{png,jpg}"
   title: "Image #:counter"

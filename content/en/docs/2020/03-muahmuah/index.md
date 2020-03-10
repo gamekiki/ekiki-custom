@@ -1,9 +1,9 @@
 ---
-title: "무아무아 muahmuah"
+title: "무아무아"
 date: 2020-03-10
 weight: 2
 description: >
-  2020.03 - 무아무아 
+  2020.03 - muahmuah
 resources:
 - src: "**.{png,jpg}"
   title: "Image #:counter"

@@ -1,9 +1,9 @@
 ---
-title: "아미니 Amini"
+title: "아미니"
 date: 2020-03-10
 weight: 2
 description: >
-  2020.03 - 아미니 
+  2020.03 - Amini
 resources:
 - src: "**.{png,jpg}"
   title: "Image #:counter"
