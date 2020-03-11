@@ -23,8 +23,9 @@ resources:
 | 게임구분            | 룰렛이벤트     |
 | 기간      | 2020/03/06 ~ 2020/03/08  |
 | 참여제한  | 하루 1회  |
-| 커스텀 룰렛(PC) | [링크](https://muahmuah.co.kr/event/event_2002.html) |
-| 커스텀 룰렛(Mobile) | [링크](https://m.muahmuah.co.kr/event/event_2002.html) |
+| 제작 결과물 | http://gamekiki.duckdns.org/gamekiki/gamekiki2/custom/muahmuah-2003 |
+| 커스텀 룰렛(PC) | https://muahmuah.co.kr/event/event_2002.html |
+| 커스텀 룰렛(Mobile) | https://m.muahmuah.co.kr/event/event_2002.html |
 
 ## 무아무아 커스텀 룰렛
 
@@ -36,5 +37,5 @@ e-KIKI
 
 | 구분          | 내용        |
 |---------------|-------------|
-| 커스텀요청서  | [링크](http://gamekiki.duckdns.org/redmine/projects/kiki-2_0/repository/ekiki-custom-data/revisions/master/show/2020/03/muahmuah) |
-| 디자인    | [링크](http://gamekiki.duckdns.org/redmine/projects/kiki-2_0/repository/ekiki-custom-data/revisions/master/show/2020/03/muahmuah) |
+| 커스텀요청서  | [다운로드](http://gamekiki.duckdns.org/redmine/projects/kiki-2_0/repository/ekiki-custom-data/revisions/master/show/2020/03/muahmuah) |
+| 디자인    | [다운로드](http://gamekiki.duckdns.org/redmine/projects/kiki-2_0/repository/ekiki-custom-data/revisions/master/show/2020/03/muahmuah) |
